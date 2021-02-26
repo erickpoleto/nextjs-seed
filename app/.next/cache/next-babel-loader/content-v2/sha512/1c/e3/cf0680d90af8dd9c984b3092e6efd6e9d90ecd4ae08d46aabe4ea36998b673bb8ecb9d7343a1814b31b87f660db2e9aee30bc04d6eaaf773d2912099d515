@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport Head from \"next/head\";\nexport default function NextHead(_ref) {\n  var title = _ref.title;\n  return /*#__PURE__*/_jsx(Head, {\n    children: /*#__PURE__*/_jsx(\"title\", {\n      children: {\n        title: title\n      }\n    })\n  });\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from \"styled-components\";\nexport const Column = styled.div.withConfig({\n  displayName: \"column__Column\",\n  componentId: \"a4fpcv-0\"\n})([\"display:flex;flex-direction:column;\"]);","map":null,"metadata":{},"sourceType":"module"}

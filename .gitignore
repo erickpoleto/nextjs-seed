@@ -4,12 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+.idea
 # testing
 /coverage
 
 # next.js
-src/.next/
 /out/
 
 # production
@@ -32,3 +31,5 @@ yarn-error.log*
 
 # vercel
 .vercel
+/src/.next/
+/src/node_modules/

@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[11],{OFMz:function(n,o,r){"use strict";r.r(o),r.d(o,"colors",(function(){return i}));var i={primary:"#FF5733"}},vDRZ:function(n,o,r){(window.__NEXT_P=window.__NEXT_P||[]).push(["/components/infra/foundation/colors/colors",function(){return r("OFMz")}])}},[["vDRZ",0]]]);

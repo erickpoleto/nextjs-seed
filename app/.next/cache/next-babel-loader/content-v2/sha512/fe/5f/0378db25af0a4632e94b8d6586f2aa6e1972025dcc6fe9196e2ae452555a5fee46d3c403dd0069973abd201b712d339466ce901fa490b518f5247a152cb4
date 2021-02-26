@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var typography = {\n  variant: {\n    title: \"42px\",\n    headline: \"\",\n    body2: \"14px\"\n  },\n  bold: {\n    light: \"300\",\n    medium: \"500\",\n    hard: \"bold\"\n  }\n};","map":null,"metadata":{},"sourceType":"module"}
