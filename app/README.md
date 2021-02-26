@@ -1,12 +1,12 @@
-### next seed
+### Next seed
 
 Project seed with initial structure for nextjs with typescript and styled components.
 
-#### contents
+#### Contents
 - structure
 - styled-components
 - typescript
-- tests with jest/enzyme (next-feature)
+- tests with jest, react-test-renderer, testing-library
 - docker (next-feature)
 - env (next-feature)
 
