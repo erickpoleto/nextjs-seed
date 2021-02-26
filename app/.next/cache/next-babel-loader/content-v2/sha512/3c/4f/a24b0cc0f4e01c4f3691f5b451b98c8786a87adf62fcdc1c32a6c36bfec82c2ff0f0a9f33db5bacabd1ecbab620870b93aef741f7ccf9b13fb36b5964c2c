@@ -1,1 +1,0 @@
-{"ast":null,"code":"import styled from \"styled-components\";\nexport var Center = styled.div.withConfig({\n  displayName: \"center__Center\",\n  componentId: \"fo991u-0\"\n})([\"display:flex;justify-content:center;\"]);","map":null,"metadata":{},"sourceType":"module"}

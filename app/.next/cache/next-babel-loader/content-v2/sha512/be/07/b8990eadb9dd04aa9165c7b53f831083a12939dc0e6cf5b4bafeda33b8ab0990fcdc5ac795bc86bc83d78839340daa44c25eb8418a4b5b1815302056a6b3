@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const typography = {\n  variant: {\n    title: \"42px\",\n    body2: \"14px\"\n  },\n  bold: {\n    light: \"300\",\n    medium: \"500\",\n    hard: \"bold\"\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[8],{"Ud7/":function(n,o,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/components/elements/typography/ITypography",function(){return _("ktj3")}])},ktj3:function(n,o){}},[["Ud7/",0]]]);
