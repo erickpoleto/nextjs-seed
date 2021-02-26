@@ -7,6 +7,5 @@ Project seed with initial structure for nextjs with typescript and styled compon
 - styled-components
 - typescript
 - tests with jest, react-test-renderer, testing-library
-- docker (next-feature)
-- env (next-feature)
+- github actions (working on)
 
