@@ -1,15 +1,23 @@
 name: Run-Tests
 
-on: push
+on:
+  push:
+      branches: [$default-branch]
 
 jobs:
   run-test:
     name: running tests
     runs-on: ubuntu-latest
 
-    steps:
-      - name: install packages
-        run: cd src && npm i
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x, 15.x]
 
-      - name: Run tests
-        run: npm run test
+    steps:
+      - uses: actions/checkout@v2
+      - name: install packages
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm run i
+      - run: npm run test
