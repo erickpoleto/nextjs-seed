@@ -18,4 +18,4 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: install dependencies
-        run: npm i
+        run: npm i --prefix src
