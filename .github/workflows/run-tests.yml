@@ -4,12 +4,12 @@ on: push
 
 jobs:
   run-test:
-    name: Lint code base
+    name: running tests
     runs-on: ubuntu-latest
 
     steps:
       - name: install packages
-        run: npm i --prefix src
+        run: cd src && npm i
 
       - name: Run tests
-        run: npm run test --prefix src
+        run: npm run test
