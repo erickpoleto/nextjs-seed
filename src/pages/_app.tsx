@@ -1,6 +1,6 @@
 import '../styles/globals.css'
 import {ThemeProvider} from 'styled-components'
-import {theme} from "../src/components/foundation/themes";
+import {theme} from "../components/foundation/themes";
 import React from 'react';
 
 function MyApp({ Component, pageProps }) {

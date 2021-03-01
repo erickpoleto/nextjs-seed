@@ -2,7 +2,7 @@ import React, {ReactElement} from 'react';
 import renderer from 'react-test-renderer'
 import Home from "../pages";
 import 'jest-styled-components'
-import {theme} from "../src/components/foundation/themes";
+import {theme} from "../components/foundation/themes";
 import {ThemeProvider} from "styled-components";
 
 const renderWithThemeProvider = (container: ReactElement) => {

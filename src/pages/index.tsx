@@ -1,7 +1,7 @@
 import React from 'react';
-import CustomHead from "../src/components/modules/head";
-import {Container, Column, Center} from "../src/components/layout/layout";
-import { Button, Typography } from "../src/components/elements/elements";
+import CustomHead from "../components/modules/head";
+import {Container, Column, Center} from "../components/layout/layout";
+import { Button, Typography } from "../components/elements/elements";
 
 export default function Home() {
   return (
